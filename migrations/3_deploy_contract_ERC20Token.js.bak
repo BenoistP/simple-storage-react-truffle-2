@@ -1,0 +1,6 @@
+var ERC20Token = artifacts.require("./ERC20Token.sol");
+
+module.exports = function(deployer) {
+  const parameters = [ 100 ];
+  deployer.deploy(ERC20Token, parameters);
+};
