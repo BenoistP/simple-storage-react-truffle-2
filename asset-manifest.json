@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/simple-storage-react-truffle-2/static/css/main.b100e6da.chunk.css",
+    "main.js": "/simple-storage-react-truffle-2/static/js/main.b8b251de.chunk.js",
+    "main.js.map": "/simple-storage-react-truffle-2/static/js/main.b8b251de.chunk.js.map",
+    "runtime-main.js": "/simple-storage-react-truffle-2/static/js/runtime-main.b509cc3f.js",
+    "runtime-main.js.map": "/simple-storage-react-truffle-2/static/js/runtime-main.b509cc3f.js.map",
+    "static/js/2.3877faa0.chunk.js": "/simple-storage-react-truffle-2/static/js/2.3877faa0.chunk.js",
+    "static/js/2.3877faa0.chunk.js.map": "/simple-storage-react-truffle-2/static/js/2.3877faa0.chunk.js.map",
+    "index.html": "/simple-storage-react-truffle-2/index.html",
+    "precache-manifest.c0537cd83a41588b87d6688777528b0e.js": "/simple-storage-react-truffle-2/precache-manifest.c0537cd83a41588b87d6688777528b0e.js",
+    "service-worker.js": "/simple-storage-react-truffle-2/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/simple-storage-react-truffle-2/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b509cc3f.js",
+    "static/js/2.3877faa0.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.b8b251de.chunk.js"
+  ]
+}
